@@ -1,0 +1,6 @@
+Racing game where you need to click the fastest to win!
+Made using Python and Pygame.
+Further, assets or things that are needed to be downloaded for the experience
+will be linked in GitHub.
+
+https://github.com/HassanKhanMuhammad
